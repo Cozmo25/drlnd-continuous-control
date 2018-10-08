@@ -2,7 +2,7 @@
 
 ## Results
 
-See [Report.pdf](./Report.pdf) for results of, and details about the algorithms I implemented for this project. The implementations can be found in [Continuous_Control_DDPG_Multi_Agent.ipynb](./Continuous_Control_DDPG_Multi_Agent.ipynb) and [Continuous_Control_PPO.ipynb](./Continuous_Control_PPO.ipynb)
+See [Report.pdf](./Report.pdf) for results of, and details about the algorithms I implemented for this project. The implementations can be found in [Continuous_Control_DDPG_Multi_Agent.ipynb](./DDPG/Continuous_Control_DDPG_Multi_Agent.ipynb) and [Continuous_Control_PPO.ipynb](./PPO/Continuous_Control_PPO.ipynb)
 
 **DDPG Results**
 
@@ -11,7 +11,7 @@ See [Report.pdf](./Report.pdf) for results of, and details about the algorithms 
 **PPO Results**
 
 ![PPO Results](./PPO/PPO-Reacher-Solved-Episodes.png)
-![PPO Chart](./PPO/PPO-Reacher-Solved-Chart.png)
+![PPO Chart](./PPO/PPO-Reacher-Sovled-Chart.png)
 
 ## Project Instructions
 ### Introduction
